@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Build directories
+dist/
+build/
+
+# Docker-specific configuration overrides (if any)
+docker-compose.override.yml
